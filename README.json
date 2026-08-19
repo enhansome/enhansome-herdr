@@ -1,257 +1,7 @@
 {
   "items": [
     {
-      "description": "157 projects. Supervisors, delegation tools, coding loops, queues, and reusable workflow packs for running one or many agents.",
-      "items": [],
-      "title": "1. Run and orchestrate agents"
-    },
-    {
-      "description": "1 project. The official instructions that teach an agent how to understand and control Herdr.*",
-      "items": [],
-      "title": "Official skill and foundation"
-    },
-    {
-      "description": "20 projects. Higher-level systems that coordinate several agents, roles, tasks, or repositories.",
-      "items": [],
-      "title": "Multi-agent fleets and supervisors"
-    },
-    {
-      "description": "19 projects. Adapters and skills that organize Claude Code sessions into structured teams.",
-      "items": [],
-      "title": "Claude Code multi-agent teams"
-    },
-    {
-      "description": "13 projects. Supervision harnesses, task planners, and extensions for Pi agents in Herdr.",
-      "items": [],
-      "title": "Pi supervisor workflows and extensions"
-    },
-    {
-      "description": "39 projects. Tools for launching workers in separate panes and passing work between a lead agent and its helpers.*",
-      "items": [],
-      "title": "Subagent launchers and delegation"
-    },
-    {
-      "description": "10 projects. Long-running workflows that implement changes, open pull requests, review results, and react to CI.*",
-      "items": [],
-      "title": "Autonomous coding and pull-request loops"
-    },
-    {
-      "description": "6 projects. Queues and event-driven systems that turn stored work into agent jobs.*",
-      "items": [],
-      "title": "Task queues, backlogs, and event triggers"
-    },
-    {
-      "description": "49 projects. Reusable skills, commands, and opinionated setups for common agent workflows.*",
-      "items": [],
-      "title": "General workflows and skill packs"
-    },
-    {
-      "description": "106 projects. MCP servers, socket clients, notifications, telemetry, hardware links, and bridges to other protocols or services.",
-      "items": [],
-      "title": "2. Connect through MCP and the socket API"
-    },
-    {
-      "description": "6 projects. Servers that expose Herdr operations as MCP tools for compatible AI clients.*",
-      "items": [],
-      "title": "MCP servers"
-    },
-    {
-      "description": "54 projects. Libraries, command-line clients, and services that communicate with Herdr through its local socket.*",
-      "items": [],
-      "title": "Socket API clients and SDKs"
-    },
-    {
-      "description": "14 projects. Bot and channel alerts that ping you when agents finish or need input.",
-      "items": [],
-      "title": "Chat alerts: Telegram, Discord, and Slack"
-    },
-    {
-      "description": "13 projects. System toasts, ntfy pings, and webhook triggers for agent events.",
-      "items": [],
-      "title": "Desktop, mobile, and webhook notifications"
-    },
-    {
-      "description": "7 projects. Event collectors and monitors for agent state, usage, cost, and runtime activity.*",
-      "items": [],
-      "title": "Telemetry, events, and quota streaming"
-    },
-    {
-      "description": "1 project. Interfaces that connect Herdr to spoken input, physical devices, or remote control surfaces.*",
-      "items": [],
-      "title": "Voice, hardware, and remote bridges"
-    },
-    {
-      "description": "11 projects. Adapters between Herdr and other multiplexers, platforms, messaging systems, or automation protocols.*",
-      "items": [],
-      "title": "Protocol and third-party bridges"
-    },
-    {
-      "description": "54 projects. Tools that connect Herdr with Neovim, VS Code, Cursor, Vim, Kakoune, REPLs, and other editing environments.",
-      "items": [],
-      "title": "3. Editor integrations"
-    },
-    {
-      "description": "30 projects. Plugins that make movement between Neovim windows and Herdr panes feel continuous.*",
-      "items": [],
-      "title": "Neovim navigation and splits"
-    },
-    {
-      "description": "1 project. A deeper integration that uses Neovim as the main interface while Herdr owns the agent processes.*",
-      "items": [],
-      "title": "Full Neovim-hosted workspaces"
-    },
-    {
-      "description": "9 projects. Extensions and environment setups for graphical editors and container-based development.*",
-      "items": [],
-      "title": "VS Code, Cursor, and dev containers"
-    },
-    {
-      "description": "11 projects. Navigation and workflow integrations for editors outside Neovim and VS Code.*",
-      "items": [],
-      "title": "Vim, Kakoune, and other editors"
-    },
-    {
-      "description": "1 project. Tools for sending code or commands from an editor to a running pane or interactive session.*",
-      "items": [],
-      "title": "REPL and code dispatchers"
-    },
-    {
-      "description": "2 projects. General-purpose bridges that synchronize editor state with Herdr panes and agents.*",
-      "items": [],
-      "title": "Editor plugins and bridges"
-    },
-    {
-      "description": "64 projects. Pickers, switchers, snapshots, restoration tools, and managers for moving among persistent Herdr sessions.",
-      "items": [],
-      "title": "4. Switch and restore sessions"
-    },
-    {
-      "description": "46 projects. Interactive pickers for finding and focusing workspaces, tabs, panes, agents, or projects.*",
-      "items": [],
-      "title": "Fuzzy session switchers and terminal pickers"
-    },
-    {
-      "description": "11 projects. Tools that record layouts and process context, then rebuild or resume them after a restart.*",
-      "items": [],
-      "title": "Persistence, snapshots, and state restoration"
-    },
-    {
-      "description": "7 projects. Managers for creating, grouping, naming, attaching to, and cleaning up several sessions.*",
-      "items": [],
-      "title": "Workspace and multi-session management"
-    },
-    {
-      "description": "359 projects. Git worktree automation, diff review, navigation, status displays, logs, and ready-made terminal configurations.",
-      "items": [],
-      "title": "5. Worktrees and terminal experience"
-    },
-    {
-      "description": "99 projects. Tools that create isolated branches and worktrees for agents, then connect them to Herdr workspaces or tabs.*",
-      "items": [],
-      "title": "Git worktree automation"
-    },
-    {
-      "description": "4 projects. Higher-level utilities for starting, tracking, and removing workspaces that span one or more repositories.*",
-      "items": [],
-      "title": "Workspace lifecycle and multi-repository tools"
-    },
-    {
-      "description": "21 projects. Side-by-side git diff inspection and comment handoff tools for agent reviews.",
-      "items": [],
-      "title": "Diff review and code inspection"
-    },
-    {
-      "description": "19 projects. In-terminal file browsers, image previews, and markdown rendering panes.",
-      "items": [],
-      "title": "File viewers and markdown previews"
-    },
-    {
-      "description": "11 projects. Direct 1-character overlay hints and smart directional pane jumping.",
-      "items": [],
-      "title": "Pane navigation and overlay hints"
-    },
-    {
-      "description": "81 projects. Custom keymap packs, leader-key setups, and prefix-free navigation.",
-      "items": [],
-      "title": "Terminal keybindings and shortcut helpers"
-    },
-    {
-      "description": "14 projects. Searchable menus for Herdr commands, projects, workspaces, and common actions.*",
-      "items": [],
-      "title": "Command palettes and workspace switchers"
-    },
-    {
-      "description": "70 projects. Persistent interface elements that show agent state, repository context, quotas, tasks, or synchronized tab information.*",
-      "items": [],
-      "title": "Status lines, sidebars, and tab synchronization"
-    },
-    {
-      "description": "15 projects. Floating status HUDs, turn timers, and keep-awake utilities.",
-      "items": [],
-      "title": "Status overlays, HUDs, and agent timers"
-    },
-    {
-      "description": "7 projects. Live token headroom meters, quota tracking, and agent cost gauges.",
-      "items": [],
-      "title": "Context meters and rate-limit gauges"
-    },
-    {
-      "description": "9 projects. Tools for searching, cleaning, exporting, or reviewing pane output and agent conversations.*",
-      "items": [],
-      "title": "Output inspection, logs, and transcripts"
-    },
-    {
-      "description": "6 projects. Complete or partial Herdr configurations that can be installed and adapted instead of written from zero.*",
-      "items": [],
-      "title": "Dotfiles and ready-made configuration"
-    },
-    {
-      "description": "3 projects. Collections and scaffolding for discovering, creating, or maintaining several Herdr extensions.*",
-      "items": [],
-      "title": "Plugin collections and developer frameworks"
-    },
-    {
-      "description": "75 projects. Desktop and mobile clients, browser dashboards, physical status devices, supporting plugins, and reproducible installation tools.",
-      "items": [],
-      "title": "6. Apps, companion integrations, and installation"
-    },
-    {
-      "description": "11 projects. Installed applications and launchers that provide a native interface to Herdr on desktop or mobile operating systems.*",
-      "items": [],
-      "title": "Native desktop and mobile apps"
-    },
-    {
-      "description": "16 projects. Browser-based monitors, remote controls, and visual scenes for following Herdr agents from another screen or device.*",
-      "items": [],
-      "title": "Web dashboards and remote viewers"
-    },
-    {
-      "description": "12 projects. Keypads, watches, desk devices, and compact displays that turn agent state into physical controls or at-a-glance signals.*",
-      "items": [],
-      "title": "Hardware and ambient displays"
-    },
-    {
-      "description": "27 projects. Small integrations for notifications, status, tasks, scheduling, agent management, and everyday desktop behavior.*",
-      "items": [],
-      "title": "Plugins and supporting utilities"
-    },
-    {
-      "description": "9 projects. Guides, configuration bundles, installers, package definitions, and tools for reproducible Herdr environments.*",
-      "items": [],
-      "title": "Setup, packages, and version management"
-    },
-    {
-      "description": "12 projects. Early experiments, design documents, and incomplete prototypes. Check each repository before relying on one in daily work.",
-      "items": [],
-      "title": "7. Experimental projects"
-    },
-    {
-      "description": "12 projects. Ideas and prototypes that are useful to study but may be incomplete, read-only, or not yet installable.*",
-      "items": [],
-      "title": "Experiments, concepts, and scaffolds"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -260,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1193909050,
             "language": "Rust",
-            "last_commit": "2026-08-19T01:43:29Z",
+            "last_commit": "2026-08-19T05:11:51Z",
             "owner": "herdrdev",
             "repo": "herdr",
-            "stars": 30381
+            "stars": 30525
           }
         },
         {
@@ -274,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1193909050,
             "language": "Rust",
-            "last_commit": "2026-08-19T01:43:29Z",
+            "last_commit": "2026-08-19T05:11:51Z",
             "owner": "herdrdev",
             "repo": "herdr",
-            "stars": 30381
+            "stars": 30525
           }
         }
       ],
@@ -286,8 +38,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T02:32:42.289Z",
+    "last_updated": "2026-08-19T12:31:39.236Z",
     "original_repository": "yigitkonur/awesome-herdr",
+    "original_repository_id": 1241803876,
     "original_repository_sha": "ca50f8eb32139095e1d7f2af8ce307eb68beec5f",
     "enhanced_repository": "enhansome/enhansome-herdr",
     "enhanced_repository_description": null,
