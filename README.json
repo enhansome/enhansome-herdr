@@ -12,10 +12,10 @@
             "archived": false,
             "id": 1193909050,
             "language": "Rust",
-            "last_commit": "2026-08-20T22:39:03Z",
+            "last_commit": "2026-08-22T02:25:57Z",
             "owner": "herdrdev",
             "repo": "herdr",
-            "stars": 31073
+            "stars": 31392
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 1193909050,
             "language": "Rust",
-            "last_commit": "2026-08-20T22:39:03Z",
+            "last_commit": "2026-08-22T02:25:57Z",
             "owner": "herdrdev",
             "repo": "herdr",
-            "stars": 31073
+            "stars": 31392
           }
         }
       ],
@@ -38,7 +38,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T02:37:31.509Z",
+    "last_updated": "2026-08-22T02:29:09.460Z",
     "original_repository": "yigitkonur/awesome-herdr",
     "original_repository_id": 1241803876,
     "original_repository_sha": "ca50f8eb32139095e1d7f2af8ce307eb68beec5f",
