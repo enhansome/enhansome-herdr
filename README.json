@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-24T23:59:57Z",
                 "owner": "herdrdev",
                 "repo": "herdr",
-                "stars": 32102
+                "stars": 32150
               }
             }
           ],
@@ -39,7 +39,7 @@
                 "last_commit": "2026-08-23T06:07:01Z",
                 "owner": "aemrebarut",
                 "repo": "herdr-dagr",
-                "stars": 39
+                "stars": 40
               }
             },
             {
@@ -51,7 +51,7 @@
                 "archived": false,
                 "id": 1306100351,
                 "language": "Go",
-                "last_commit": "2026-08-24T22:53:03Z",
+                "last_commit": "2026-08-25T04:55:59Z",
                 "owner": "aorumbayev",
                 "repo": "herdr-workflows",
                 "stars": 16
@@ -201,7 +201,7 @@
                 "archived": false,
                 "id": 1317932045,
                 "language": "Go",
-                "last_commit": "2026-08-16T02:29:01Z",
+                "last_commit": "2026-08-25T05:04:23Z",
                 "owner": "steig",
                 "repo": "worktender",
                 "stars": 1
@@ -810,7 +810,7 @@
                 "last_commit": "2026-08-25T00:51:43Z",
                 "owner": "alvinunreal",
                 "repo": "oh-my-opencode-slim",
-                "stars": 8385
+                "stars": 8387
               }
             },
             {
@@ -825,7 +825,7 @@
                 "last_commit": "2026-08-24T07:15:54Z",
                 "owner": "vekexasia",
                 "repo": "pi-extensible-workflows",
-                "stars": 192
+                "stars": 193
               }
             },
             {
@@ -1656,7 +1656,7 @@
                 "last_commit": "2026-07-23T16:44:59Z",
                 "owner": "cloudmanic",
                 "repo": "herdr-plus",
-                "stars": 258
+                "stars": 259
               }
             },
             {
@@ -1671,7 +1671,7 @@
                 "last_commit": "2026-08-22T15:17:36Z",
                 "owner": "jhochenbaum",
                 "repo": "herdr-hunk-diff",
-                "stars": 87
+                "stars": 88
               }
             },
             {
@@ -2238,7 +2238,7 @@
                 "archived": false,
                 "id": 1238528175,
                 "language": "Rust",
-                "last_commit": "2026-08-25T02:04:20Z",
+                "last_commit": "2026-08-25T04:05:20Z",
                 "owner": "masakirocorp",
                 "repo": "gardn",
                 "stars": 0
@@ -2543,7 +2543,7 @@
                 "archived": false,
                 "id": 1295060983,
                 "language": "Go",
-                "last_commit": "2026-08-25T01:55:49Z",
+                "last_commit": "2026-08-25T03:59:58Z",
                 "owner": "0xGosu",
                 "repo": "herdr-auto-pilot",
                 "stars": 16
@@ -3712,7 +3712,7 @@
                 "archived": false,
                 "id": 1334746241,
                 "language": "Rust",
-                "last_commit": "2026-08-20T16:03:38Z",
+                "last_commit": "2026-08-25T04:41:05Z",
                 "owner": "winoooops",
                 "repo": "herdr-agent-watcher",
                 "stars": 5
@@ -3868,10 +3868,10 @@
                 "archived": false,
                 "id": 1225688424,
                 "language": "Go",
-                "last_commit": "2026-08-25T02:03:30Z",
+                "last_commit": "2026-08-25T06:26:13Z",
                 "owner": "openclaw",
                 "repo": "crabbox",
-                "stars": 1331
+                "stars": 1330
               }
             },
             {
@@ -4079,7 +4079,7 @@
                 "last_commit": "2026-08-23T20:20:39Z",
                 "owner": "ChmaraX",
                 "repo": "herdr-nvim",
-                "stars": 69
+                "stars": 71
               }
             },
             {
@@ -5864,7 +5864,7 @@
                 "last_commit": "2026-08-23T17:40:44Z",
                 "owner": "persiyanov",
                 "repo": "herdr-reviewr",
-                "stars": 512
+                "stars": 514
               }
             },
             {
@@ -5879,7 +5879,7 @@
                 "last_commit": "2026-08-15T21:20:04Z",
                 "owner": "smarzban",
                 "repo": "herdr-file-viewer",
-                "stars": 468
+                "stars": 471
               }
             },
             {
@@ -5921,10 +5921,10 @@
                 "archived": false,
                 "id": 1304451904,
                 "language": "Rust",
-                "last_commit": "2026-08-22T00:45:17Z",
+                "last_commit": "2026-08-25T03:22:24Z",
                 "owner": "alexarthurs",
                 "repo": "herdr-sidebar",
-                "stars": 183
+                "stars": 186
               }
             },
             {
@@ -6161,7 +6161,7 @@
                 "archived": false,
                 "id": 1290365179,
                 "language": "Rust",
-                "last_commit": "2026-08-24T21:47:53Z",
+                "last_commit": "2026-08-25T03:36:30Z",
                 "owner": "simoncrypta",
                 "repo": "agentic-dev-setup",
                 "stars": 5
@@ -7301,7 +7301,7 @@
                 "archived": false,
                 "id": 1329652328,
                 "language": "Python",
-                "last_commit": "2026-08-11T03:19:51Z",
+                "last_commit": "2026-08-25T02:47:17Z",
                 "owner": "firew0rks",
                 "repo": "herdr-ci-tokens",
                 "stars": 0
@@ -10937,7 +10937,7 @@
                 "last_commit": "2026-08-22T14:27:36Z",
                 "owner": "senna-lang",
                 "repo": "herdr-agent-usage",
-                "stars": 21
+                "stars": 22
               }
             },
             {
@@ -11300,7 +11300,7 @@
                 "archived": false,
                 "id": 1314403494,
                 "language": "Python",
-                "last_commit": "2026-08-25T01:52:29Z",
+                "last_commit": "2026-08-25T04:41:29Z",
                 "owner": "MIDO-ruby7",
                 "repo": "herdr-plugins-directory",
                 "stars": 10
@@ -11488,7 +11488,7 @@
                 "last_commit": "2026-08-24T14:38:43Z",
                 "owner": "AltanS",
                 "repo": "collie",
-                "stars": 510
+                "stars": 513
               }
             },
             {
@@ -11533,7 +11533,7 @@
                 "last_commit": "2026-08-24T14:06:04Z",
                 "owner": "0cv",
                 "repo": "herdr-mobile-relay",
-                "stars": 127
+                "stars": 129
               }
             },
             {
@@ -11545,7 +11545,7 @@
                 "archived": false,
                 "id": 1303663690,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T02:22:09Z",
+                "last_commit": "2026-08-25T06:29:16Z",
                 "owner": "KaminariOS",
                 "repo": "whip",
                 "stars": 40
@@ -12658,7 +12658,7 @@
             "last_commit": "2026-08-24T23:59:57Z",
             "owner": "herdrdev",
             "repo": "herdr",
-            "stars": 32102
+            "stars": 32150
           }
         },
         {
@@ -12673,7 +12673,7 @@
             "last_commit": "2026-08-24T23:59:57Z",
             "owner": "herdrdev",
             "repo": "herdr",
-            "stars": 32102
+            "stars": 32150
           }
         }
       ],
@@ -12681,7 +12681,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T02:32:03.046Z",
+    "last_updated": "2026-08-25T06:30:53.271Z",
     "original_repository": "yigitkonur/awesome-herdr",
     "original_repository_id": 1241803876,
     "original_repository_sha": "ca50f8eb32139095e1d7f2af8ce307eb68beec5f",
