@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 1193909050,
                 "language": "Rust",
-                "last_commit": "2026-08-25T20:44:57Z",
+                "last_commit": "2026-08-27T11:30:24Z",
                 "owner": "herdrdev",
                 "repo": "herdr",
-                "stars": 32785
+                "stars": 32793
               }
             }
           ],
@@ -810,7 +810,7 @@
                 "last_commit": "2026-08-26T14:39:37Z",
                 "owner": "alvinunreal",
                 "repo": "oh-my-opencode-slim",
-                "stars": 8452
+                "stars": 8453
               }
             },
             {
@@ -5906,7 +5906,7 @@
                 "archived": false,
                 "id": 1308876468,
                 "language": "Swift",
-                "last_commit": "2026-08-27T08:52:08Z",
+                "last_commit": "2026-08-27T11:20:03Z",
                 "owner": "kenn-io",
                 "repo": "ghosthub",
                 "stars": 83
@@ -6881,7 +6881,7 @@
                 "archived": false,
                 "id": 1333086355,
                 "language": "JavaScript",
-                "last_commit": "2026-08-13T12:23:41Z",
+                "last_commit": "2026-08-27T11:28:37Z",
                 "owner": "kazimshah39",
                 "repo": "herdr-suffix-agent-filter",
                 "stars": 0
@@ -10128,7 +10128,7 @@
                 "last_commit": "2026-07-27T15:03:53Z",
                 "owner": "iuhoay",
                 "repo": "herdr-break-pane",
-                "stars": 1
+                "stars": 2
               }
             },
             {
@@ -12655,10 +12655,10 @@
             "archived": false,
             "id": 1193909050,
             "language": "Rust",
-            "last_commit": "2026-08-25T20:44:57Z",
+            "last_commit": "2026-08-27T11:30:24Z",
             "owner": "herdrdev",
             "repo": "herdr",
-            "stars": 32785
+            "stars": 32793
           }
         },
         {
@@ -12670,10 +12670,10 @@
             "archived": false,
             "id": 1193909050,
             "language": "Rust",
-            "last_commit": "2026-08-25T20:44:57Z",
+            "last_commit": "2026-08-27T11:30:24Z",
             "owner": "herdrdev",
             "repo": "herdr",
-            "stars": 32785
+            "stars": 32793
           }
         }
       ],
@@ -12681,7 +12681,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:13:16.030Z",
+    "last_updated": "2026-08-27T11:48:08.527Z",
     "original_repository_info": {
       "archived": false,
       "id": 1241803876,
