@@ -21,7 +21,7 @@
                 "open_issues": 256,
                 "owner": "herdrdev",
                 "repo": "herdr",
-                "stars": 33229,
+                "stars": 33259,
                 "topics": [
                   "agent",
                   "agent-orchestration",
@@ -68,7 +68,7 @@
                 "open_issues": 0,
                 "owner": "aemrebarut",
                 "repo": "herdr-dagr",
-                "stars": 46,
+                "stars": 47,
                 "topics": [
                   "agents",
                   "dag",
@@ -1280,10 +1280,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-08-29T03:15:39Z",
-                "open_issues": 42,
+                "open_issues": 43,
                 "owner": "alvinunreal",
                 "repo": "oh-my-opencode-slim",
-                "stars": 8498,
+                "stars": 8501,
                 "topics": [
                   "agentic-ai",
                   "antigravity",
@@ -1558,8 +1558,8 @@
                 "id": 1324107391,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-08-18T21:06:42Z",
-                "open_issues": 3,
+                "last_commit": "2026-08-29T06:05:33Z",
+                "open_issues": 4,
                 "owner": "giuseppecrj",
                 "repo": "pi-herdr-agents",
                 "stars": 9,
@@ -2630,7 +2630,7 @@
                 "open_issues": 5,
                 "owner": "cloudmanic",
                 "repo": "herdr-plus",
-                "stars": 270,
+                "stars": 271,
                 "topics": [
                   "herdr-plugin"
                 ]
@@ -2679,7 +2679,7 @@
                 "open_issues": 0,
                 "owner": "madarco",
                 "repo": "agentbox-herdr-plugin",
-                "stars": 28,
+                "stars": 29,
                 "topics": [
                   "claude-code",
                   "codex-cli",
@@ -2809,8 +2809,8 @@
                 "id": 1313441522,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-08-28T21:06:43Z",
-                "open_issues": 1,
+                "last_commit": "2026-08-29T07:53:10Z",
+                "open_issues": 3,
                 "owner": "bon5co",
                 "repo": "bermuda",
                 "stars": 9,
@@ -3939,7 +3939,7 @@
                 "open_issues": 0,
                 "owner": "backpine",
                 "repo": "remote-agent-workspace",
-                "stars": 59,
+                "stars": 60,
                 "topics": [
                   "ai-agents",
                   "caddy",
@@ -5837,8 +5837,8 @@
                 "id": 1334746241,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-27T06:11:36Z",
-                "open_issues": 1,
+                "last_commit": "2026-08-29T06:10:15Z",
+                "open_issues": 0,
                 "owner": "winoooops",
                 "repo": "herdr-agent-watcher",
                 "stars": 5,
@@ -6086,8 +6086,8 @@
                 "id": 1225688424,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-08-29T04:38:39Z",
-                "open_issues": 36,
+                "last_commit": "2026-08-29T07:49:22Z",
+                "open_issues": 29,
                 "owner": "openclaw",
                 "repo": "crabbox",
                 "stars": 1339,
@@ -6439,7 +6439,7 @@
                 "open_issues": 5,
                 "owner": "ChmaraX",
                 "repo": "herdr-nvim",
-                "stars": 90,
+                "stars": 92,
                 "topics": [
                   "herdr",
                   "herdr-plugin",
@@ -7741,7 +7741,7 @@
                 "open_issues": 8,
                 "owner": "thanhdat77",
                 "repo": "herdr-navigator",
-                "stars": 121,
+                "stars": 122,
                 "topics": [
                   "fuzzy-finder",
                   "herdr",
@@ -7769,7 +7769,7 @@
                 "open_issues": 8,
                 "owner": "thanhdat77",
                 "repo": "herdr-navigator",
-                "stars": 121,
+                "stars": 122,
                 "topics": [
                   "fuzzy-finder",
                   "herdr",
@@ -7793,11 +7793,11 @@
                 "id": 1270877294,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-08-16T09:22:24Z",
-                "open_issues": 10,
+                "last_commit": "2026-08-29T06:16:29Z",
+                "open_issues": 8,
                 "owner": "andrewchng",
                 "repo": "herdr-sessionizer",
-                "stars": 40,
+                "stars": 41,
                 "topics": [
                   "bun",
                   "fuzzy-finder",
@@ -8905,7 +8905,7 @@
                 "language": "Rust",
                 "license": "MIT",
                 "last_commit": "2026-08-29T03:42:11Z",
-                "open_issues": 8,
+                "open_issues": 11,
                 "owner": "nikok6",
                 "repo": "herdr-mirror",
                 "stars": 197,
@@ -9168,7 +9168,7 @@
                 "open_issues": 0,
                 "owner": "third774",
                 "repo": "herdr-last-workspace",
-                "stars": 17,
+                "stars": 18,
                 "topics": [
                   "herdr-plugin"
                 ]
@@ -9330,7 +9330,7 @@
                 "id": 1281328046,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-08-28T17:52:29Z",
+                "last_commit": "2026-08-29T06:13:04Z",
                 "open_issues": 22,
                 "owner": "persiyanov",
                 "repo": "herdr-reviewr",
@@ -9411,7 +9411,7 @@
                 "id": 1308876468,
                 "language": "Swift",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-08-28T22:10:10Z",
+                "last_commit": "2026-08-29T07:27:56Z",
                 "open_issues": 12,
                 "owner": "kenn-io",
                 "repo": "ghosthub",
@@ -9444,7 +9444,7 @@
                 "open_issues": 4,
                 "owner": "alexarthurs",
                 "repo": "herdr-sidebar",
-                "stars": 222,
+                "stars": 224,
                 "topics": [
                   "git",
                   "herdr",
@@ -9499,7 +9499,7 @@
                 "open_issues": 1,
                 "owner": "razajamil",
                 "repo": "herdr-plugin-workspace-manager",
-                "stars": 36,
+                "stars": 37,
                 "topics": [
                   "herdr-plugin"
                 ]
@@ -9522,7 +9522,7 @@
                 "open_issues": 0,
                 "owner": "tdi",
                 "repo": "herdr-worktree-setup",
-                "stars": 22,
+                "stars": 23,
                 "topics": [
                   "herdr-plugin"
                 ]
@@ -9545,7 +9545,7 @@
                 "open_issues": 2,
                 "owner": "Crokily",
                 "repo": "herdr-lazygit",
-                "stars": 25,
+                "stars": 26,
                 "topics": [
                   "git",
                   "herdr",
@@ -11585,7 +11585,7 @@
                 "id": 1329658790,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-21T04:14:22Z",
+                "last_commit": "2026-08-29T06:34:22Z",
                 "open_issues": 2,
                 "owner": "m1sk9",
                 "repo": "herdr-worktree-hooks-plugin",
@@ -13157,7 +13157,7 @@
                 "open_issues": 1,
                 "owner": "qu8n",
                 "repo": "herdr-automatic-rename",
-                "stars": 50,
+                "stars": 51,
                 "topics": [
                   "herdr",
                   "herdr-plugin"
@@ -18078,7 +18078,7 @@
                 "id": 1314403494,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-08-28T22:19:35Z",
+                "last_commit": "2026-08-29T07:04:26Z",
                 "open_issues": 0,
                 "owner": "MIDO-ruby7",
                 "repo": "herdr-plugins-directory",
@@ -18446,8 +18446,8 @@
                 "id": 1288221712,
                 "language": "Go",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-28T19:51:58Z",
-                "open_issues": 5,
+                "last_commit": "2026-08-29T06:34:29Z",
+                "open_issues": 2,
                 "owner": "0cv",
                 "repo": "herdr-mobile-relay",
                 "stars": 142,
@@ -18484,7 +18484,7 @@
                 "id": 1303663690,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-08-29T04:18:13Z",
+                "last_commit": "2026-08-29T07:05:11Z",
                 "open_issues": 6,
                 "owner": "KaminariOS",
                 "repo": "whip",
@@ -18724,7 +18724,7 @@
                 "id": 1297179569,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-08-29T01:58:38Z",
+                "last_commit": "2026-08-29T07:51:57Z",
                 "open_issues": 0,
                 "owner": "tigorlazuardi",
                 "repo": "herdr-web-tui",
@@ -19391,11 +19391,11 @@
                 "id": 1334774389,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-08-29T00:59:49Z",
-                "open_issues": 0,
+                "last_commit": "2026-08-29T07:29:51Z",
+                "open_issues": 1,
                 "owner": "levi-qiao",
                 "repo": "herdr-agent-quota",
-                "stars": 32,
+                "stars": 33,
                 "topics": [
                   "agent-usage",
                   "agy",
@@ -19803,7 +19803,7 @@
                 "id": 1303799464,
                 "language": "JavaScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-28T23:24:58Z",
+                "last_commit": "2026-08-29T07:47:48Z",
                 "open_issues": 2,
                 "owner": "Yassimba",
                 "repo": "loom",
@@ -20251,7 +20251,7 @@
             "open_issues": 256,
             "owner": "herdrdev",
             "repo": "herdr",
-            "stars": 33229,
+            "stars": 33259,
             "topics": [
               "agent",
               "agent-orchestration",
@@ -20291,7 +20291,7 @@
             "open_issues": 256,
             "owner": "herdrdev",
             "repo": "herdr",
-            "stars": 33229,
+            "stars": 33259,
             "topics": [
               "agent",
               "agent-orchestration",
@@ -20320,7 +20320,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:55:32.499Z",
+    "last_updated": "2026-08-29T07:54:24.531Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated guide to the Herdr ecosystem: tools, workflows, configs, clients, skills, and integrations.",
